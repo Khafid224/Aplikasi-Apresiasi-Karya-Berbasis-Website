@@ -1,0 +1,5 @@
+![home](https://github.com/Khafid224/Aplikasi-Apresiasi-Karya-Berbasis-Website/assets/145306005/c84e0af0-1c23-48c9-88cc-8cab68ffd24a)
+![hapus](https://github.com/Khafid224/Aplikasi-Apresiasi-Karya-Berbasis-Website/assets/145306005/245dcf0b-9c74-4518-bffa-3fa6e2d0e14c)
+![edit](https://github.com/Khafid224/Aplikasi-Apresiasi-Karya-Berbasis-Website/assets/145306005/89d1123a-2908-4722-a0f5-f585fc124ccb)
+![tambah](https://github.com/Khafid224/Aplikasi-Apresiasi-Karya-Berbasis-Website/assets/145306005/ca7ee312-1a4e-4132-a64b-d2b30b70aec9)
+![update profil](https://github.com/Khafid224/Aplikasi-Apresiasi-Karya-Berbasis-Website/assets/145306005/dedcd213-303e-442e-b654-cb78f3566d1a)
